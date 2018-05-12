@@ -1,0 +1,42 @@
+_repo: A-Day-with-Lord-Byron_32990
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noel Byron, Baron
+    - Byron, George Gordon Noël Byron, Baron
+    birthdate: 1788
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+covers:
+- cover_type: archival
+  image_path: 32990-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Clare, Maurice
+    - Gillington, M. C. (May Clarissa)
+    - Gillington, May Clarissa
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2010-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824'
+- !lcc 'PR'
+- !lcsh 'English poetry -- 19th century'
+title: A Day with Lord Byron
+url: http://www.gutenberg.org/ebooks/32990
